@@ -1,0 +1,5 @@
+game.StarterGui:SetCore("SendNotification", {Title="Hopping Server"; Text="Script Active"; Duration=5;})
+loadstring(game:HttpGet("https://pastebin.com/raw/LLhWVNXZ"))()
+
+game.StarterGui:SetCore("SendNotification", {Title="Hopping Server"; Text="Search 🔍"; Duration=5;})
+loadstring(game:HttpGet("https://pastebin.com/raw/882Dscjy"))()
