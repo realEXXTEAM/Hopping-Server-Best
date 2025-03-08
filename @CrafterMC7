@@ -1,5 +1,11 @@
-game.StarterGui:SetCore("SendNotification", {Title="Hopping Server"; Text="Script Active"; Duration=5;})
+print('Succes Active All Script✅');
+loadstring(game:HttpGet("https://pastebin.com/raw/4zkNHk13"))()
+
+game.StarterGui:SetCore("SendNotification", {Title="Hopping Server"; Text="Active"; Duration=5;})
 loadstring(game:HttpGet("https://pastebin.com/raw/LLhWVNXZ"))()
 
-game.StarterGui:SetCore("SendNotification", {Title="Hopping Server"; Text="Search 🔍"; Duration=5;})
+game.StarterGui:SetCore("SendNotification", {Title="Show Fps/Ping"; Text="Active"; Duration=5;})
 loadstring(game:HttpGet("https://pastebin.com/raw/882Dscjy"))()
+
+game.StarterGui:SetCore("SendNotification", {Title="Ui JobJoinId"; Text="Active"; Duration=5;})
+loadstring(game:HttpGet("https://pastebin.com/raw/7vgv6T9s"))()
